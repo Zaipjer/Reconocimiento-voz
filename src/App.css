@@ -1,0 +1,23 @@
+.notes{
+  height: 100vh;
+  background-color: #ccc;
+  padding: 2rem;
+}
+
+.notes > h1 {
+  margin-bottom: 2rem;
+}
+
+.mic-icon {
+  padding: 7px;
+  background: red;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.microphone{
+  position:  absolute;
+  top: 0;
+  right: 0;
+}
